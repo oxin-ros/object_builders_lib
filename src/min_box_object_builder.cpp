@@ -18,7 +18,7 @@
 
 #include <pcl/common/common.h>      // pcl::getMinMax3D
 #include <pcl/common/transforms.h>  // pcl::TransformPointCloud
-#include <pcl/io/io.h>              // pcl::copyPointCloud
+#include <pcl/common/io.h>     // pcl::copyPointCloud
 
 #include "common/algos/convex_hullxy.hpp"  // common::algos::ConvexHull2DXY
 #include "common/common.hpp"               // common::convertPointCloud */
